@@ -14,3 +14,6 @@ bash start.sh
 printf(%d)
 
 ```
+- [x] chat with big bro
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
